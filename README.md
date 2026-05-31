@@ -37,27 +37,27 @@ To perform in-depth analysis on a real-world food delivery dataset using SQL, un
 
 ## 📊 Summary Queries
 ##  🔹Q1: Most Frequently Ordered Items
-<img width="1414" height="2000" alt="6" src="https://github.com/user-attachments/assets/9fb417ac-e83c-4972-ba4d-d0d823c19ff5" />
+<img width="1414" height="2000" alt="6" src="https://github.com/user-attachments/assets/9fb417ac-e83c-4972-ba4d-d0d823c19ff5" /> <br>
 ##  🔹Q2: Average Order Value by City
-<img width="1414" height="2000" alt="7" src="https://github.com/user-attachments/assets/7f8a5948-5602-4bae-a43b-b6a67413512c" />
+<img width="1414" height="2000" alt="7" src="https://github.com/user-attachments/assets/7f8a5948-5602-4bae-a43b-b6a67413512c" /><br>
 ##  🔹 Q3: Top 5 Spending Customers
-<img width="1414" height="2000" alt="8" src="https://github.com/user-attachments/assets/5469f1ca-16f1-4bbe-af77-c62a5a527fb9" />
+<img width="1414" height="2000" alt="8" src="https://github.com/user-attachments/assets/5469f1ca-16f1-4bbe-af77-c62a5a527fb9" /><br>
 ##  🔹 Q4: Total Revenue by City
-<img width="1414" height="2000" alt="9" src="https://github.com/user-attachments/assets/a135eb07-c0cf-4583-8754-2b2371728b9e" />
+<img width="1414" height="2000" alt="9" src="https://github.com/user-attachments/assets/a135eb07-c0cf-4583-8754-2b2371728b9e" /><br>
 ##  🔹 Q5: Top 3 Most Expensive Items
-<img width="1414" height="2000" alt="10" src="https://github.com/user-attachments/assets/0da62978-c3bb-47f3-b7a8-40435f55cdd6" />
+<img width="1414" height="2000" alt="10" src="https://github.com/user-attachments/assets/0da62978-c3bb-47f3-b7a8-40435f55cdd6" /><br>
 
 ## 📈 Visualizations & Insights
 ## 🔸 Item Popularity Distribution
-<img width="1414" height="2000" alt="11" src="https://github.com/user-attachments/assets/8cd4a66d-aac7-47f0-bbd7-116335994104" />
+<img width="1414" height="2000" alt="11" src="https://github.com/user-attachments/assets/8cd4a66d-aac7-47f0-bbd7-116335994104" /><br>
 ## 🔸 City vs Average Revenue
-<img width="1414" height="2000" alt="12" src="https://github.com/user-attachments/assets/6f767993-4d05-4d2e-b8a3-185bc0780472" />
+<img width="1414" height="2000" alt="12" src="https://github.com/user-attachments/assets/6f767993-4d05-4d2e-b8a3-185bc0780472" /><br>
 ## 🔸 Customer Spending Comparison
-<img width="1414" height="2000" alt="13" src="https://github.com/user-attachments/assets/4e7afdfa-4bd3-49f3-a2ef-49cecddf73d5" />
+<img width="1414" height="2000" alt="13" src="https://github.com/user-attachments/assets/4e7afdfa-4bd3-49f3-a2ef-49cecddf73d5" /><br>
 ## 🔸 City-wise Revenue Breakdown
-<img width="1414" height="2000" alt="14" src="https://github.com/user-attachments/assets/92349e0b-d689-4eb2-84d1-df24bf0519fd" />
+<img width="1414" height="2000" alt="14" src="https://github.com/user-attachments/assets/92349e0b-d689-4eb2-84d1-df24bf0519fd" /><br>
 ## 🔸 Costliest Menu Items
-<img width="1414" height="2000" alt="15" src="https://github.com/user-attachments/assets/f89bede9-a472-4c35-a0ea-50f542aad50e" />
+<img width="1414" height="2000" alt="15" src="https://github.com/user-attachments/assets/f89bede9-a472-4c35-a0ea-50f542aad50e" /><br>
 
 ## 🧑‍💼 Conclusion
 <img width="1414" height="2000" alt="16" src="https://github.com/user-attachments/assets/f9d344b7-781c-4efa-b9fc-e8dc082b8a54" />
