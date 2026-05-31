@@ -3,9 +3,9 @@ Designed and deployed an Online Food Delivery SQL project with 5 relational tabl
 
 
 # 🍽️ Online Food Delivery SQL Project
-Domain: E-Commerce
-Tools Used: SQL, ER Diagrams, Data Visualization
-Dataset Size: ~800 rows across 5 relational tables
+- Domain: E-Commerce
+- Tools Used: SQL, ER Diagrams, Data Visualization
+- Dataset Size: ~800 rows across 5 relational tables
 
 ## 📌 Objective
 To perform in-depth analysis on a real-world food delivery dataset using SQL, uncovering trends in customer behavior, restaurant performance, and item popularity through structured queries and visualizations.
