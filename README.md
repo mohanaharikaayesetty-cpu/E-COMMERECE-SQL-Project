@@ -36,15 +36,15 @@ To perform in-depth analysis on a real-world food delivery dataset using SQL, un
 <img width="1414" height="2000" alt="5" src="https://github.com/user-attachments/assets/b60f029d-c424-4020-9631-4ca30643b134" />
 
 ## 📊 Summary Queries
-### 🔹 Q1: Most Frequently Ordered Items
+###  🔹Q1: Most Frequently Ordered Items
 <img width="1414" height="2000" alt="6" src="https://github.com/user-attachments/assets/9fb417ac-e83c-4972-ba4d-d0d823c19ff5" />
-### 🔹 Q2: Average Order Value by City
+###  🔹Q2: Average Order Value by City
 <img width="1414" height="2000" alt="7" src="https://github.com/user-attachments/assets/7f8a5948-5602-4bae-a43b-b6a67413512c" />
-### 🔹 Q3: Top 5 Spending Customers
+###  🔹 Q3: Top 5 Spending Customers
 <img width="1414" height="2000" alt="8" src="https://github.com/user-attachments/assets/5469f1ca-16f1-4bbe-af77-c62a5a527fb9" />
-### 🔹 Q4: Total Revenue by City
+###  🔹 Q4: Total Revenue by City
 <img width="1414" height="2000" alt="9" src="https://github.com/user-attachments/assets/a135eb07-c0cf-4583-8754-2b2371728b9e" />
-### 🔹 Q5: Top 3 Most Expensive Items
+###  🔹 Q5: Top 3 Most Expensive Items
 <img width="1414" height="2000" alt="10" src="https://github.com/user-attachments/assets/0da62978-c3bb-47f3-b7a8-40435f55cdd6" />
 
 ## 📈 Visualizations & Insights
