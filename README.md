@@ -36,27 +36,27 @@ To perform in-depth analysis on a real-world food delivery dataset using SQL, un
 <img width="1414" height="2000" alt="5" src="https://github.com/user-attachments/assets/b60f029d-c424-4020-9631-4ca30643b134" />
 
 ## 📊 Summary Queries
-###  🔹Q1: Most Frequently Ordered Items
+##  🔹Q1: Most Frequently Ordered Items
 <img width="1414" height="2000" alt="6" src="https://github.com/user-attachments/assets/9fb417ac-e83c-4972-ba4d-d0d823c19ff5" />
-###  🔹Q2: Average Order Value by City
+##  🔹Q2: Average Order Value by City
 <img width="1414" height="2000" alt="7" src="https://github.com/user-attachments/assets/7f8a5948-5602-4bae-a43b-b6a67413512c" />
-###  🔹 Q3: Top 5 Spending Customers
+##  🔹 Q3: Top 5 Spending Customers
 <img width="1414" height="2000" alt="8" src="https://github.com/user-attachments/assets/5469f1ca-16f1-4bbe-af77-c62a5a527fb9" />
-###  🔹 Q4: Total Revenue by City
+##  🔹 Q4: Total Revenue by City
 <img width="1414" height="2000" alt="9" src="https://github.com/user-attachments/assets/a135eb07-c0cf-4583-8754-2b2371728b9e" />
-###  🔹 Q5: Top 3 Most Expensive Items
+##  🔹 Q5: Top 3 Most Expensive Items
 <img width="1414" height="2000" alt="10" src="https://github.com/user-attachments/assets/0da62978-c3bb-47f3-b7a8-40435f55cdd6" />
 
 ## 📈 Visualizations & Insights
-### 🔸 Item Popularity Distribution
+## 🔸 Item Popularity Distribution
 <img width="1414" height="2000" alt="11" src="https://github.com/user-attachments/assets/8cd4a66d-aac7-47f0-bbd7-116335994104" />
-### 🔸 City vs Average Revenue
+## 🔸 City vs Average Revenue
 <img width="1414" height="2000" alt="12" src="https://github.com/user-attachments/assets/6f767993-4d05-4d2e-b8a3-185bc0780472" />
-### 🔸 Customer Spending Comparison
+## 🔸 Customer Spending Comparison
 <img width="1414" height="2000" alt="13" src="https://github.com/user-attachments/assets/4e7afdfa-4bd3-49f3-a2ef-49cecddf73d5" />
-### 🔸 City-wise Revenue Breakdown
+## 🔸 City-wise Revenue Breakdown
 <img width="1414" height="2000" alt="14" src="https://github.com/user-attachments/assets/92349e0b-d689-4eb2-84d1-df24bf0519fd" />
-### 🔸 Costliest Menu Items
+## 🔸 Costliest Menu Items
 <img width="1414" height="2000" alt="15" src="https://github.com/user-attachments/assets/f89bede9-a472-4c35-a0ea-50f542aad50e" />
 
 ## 🧑‍💼 Conclusion
